@@ -8,8 +8,8 @@ logback-spring.xml
  - profile specific loggers
 
 References:
-https://docs.spring.io/spring-boot/docs/2.1.13.RELEASE/reference/html/boot-features-logging.html
-https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html#howto.logging.logback
+https://docs.spring.io/spring-boot/docs/2.1.13.RELEASE/reference/html/boot-features-logging.html <br>
+https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html#howto.logging.logback <br>
 https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.logging.logback-extensions
 https://logback.qos.ch/manual/appenders.html
 https://springhow.com/spring-boot-banner-generator/
