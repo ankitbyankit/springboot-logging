@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+logging:
+  level:
+    root: info
+    com.springboot.logging.demo.controllers: info
+
+spring:
+  banner:
+    location: banner/banner.txt

@@ -1,0 +1,16 @@
+${AnsiColor.BRIGHT_GREEN}
+.:::::    .::::::::.::       .::    .::::
+.::   .:: .::      .: .::   .:::  .::    .::
+.::    .::.::      .:: .:: . .::.::        .::
+.::    .::.::::::  .::  .::  .::.::        .::
+.::    .::.::      .::   .:  .::.::        .::
+.::   .:: .::      .::       .::  .::     .::
+.:::::    .::::::::.::       .::    .::::
+
+${AnsiColor.BLUE}
+
+Application: ${application.title}
+Version: ${application.version}
+Powered by Spring Boot ${spring-boot.version}
+
+${AnsiColor.BRIGHT_WHITE}
